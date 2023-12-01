@@ -23,3 +23,7 @@ create a PR (pull request)
 After merge in remote repo(main) see it in local repo by entering command(using 2nd way)
 
 git pull origin main
+
+Resolving merge conflicts
+
+add both features by click on it in vscode
