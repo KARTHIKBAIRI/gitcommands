@@ -27,3 +27,12 @@ git pull origin main
 Resolving merge conflicts
 
 add both features by click on it in vscode
+
+To reset changes
+ git reset <filename> or git reset
+
+ To reset to previous commit
+ git reset HEAD-1
+
+ To check all the commits
+ git log
