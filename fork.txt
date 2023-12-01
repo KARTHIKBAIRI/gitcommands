@@ -1,0 +1,7 @@
+# Fork is used to create rough copy repository in our account
+
+to get code of other accounts to our account
+
+click on fork 
+give repo name
+create repo

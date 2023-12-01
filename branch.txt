@@ -36,3 +36,11 @@ To reset changes
 
  To check all the commits
  git log
+
+ To reset to particular commit
+ git reset <commit hash>(hash occurs by clicking "git log")
+
+ To reset git along with local repo
+ git reset --hard <commit hash>
+
+ 
